@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andrewberlinghoff@gmail.com**
 
-- 📄 My resume can be found <a href="[https://docs.google.com/document/d/1fFZoF4P-vHtI8g9lJwswB_bqFR7ISQcUFHvs3Ckwd1M/edit?usp=drive_link](https://docs.google.com/document/d/1ZAGtOFJQNXYjwTNC6m15mhDXkH8Otfl5CSi709Q8bmY/edit?tab=t.0)">here</a>  
+- 📄 My resume can be found <a href="https://docs.google.com/document/d/1ZAGtOFJQNXYjwTNC6m15mhDXkH8Otfl5CSi709Q8bmY/edit?tab=t.0">here</a>  
 
 - ⚡ Fun fact **I've been on and off messing around with coding for the last 15 years, finally deciding to make a career out of it!**
 
